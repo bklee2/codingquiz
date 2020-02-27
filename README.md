@@ -1,1 +1,1 @@
-# codingquiz
+# Coding Quiz 문제 풀이
